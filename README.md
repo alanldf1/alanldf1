@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanldf1&theme=midnight-purple&show_icons=true)
 <hr>
 
-## Tecnologias que uso no meu dia a dia
+## Technologies I use in my day-to-day
 
 [![HTML](https://img.shields.io/badge/HTML-7f3ace?style=for-the-badge&logo=html5&logoColor=white)](https://www.instagram.com/logalan_souza//)
 [![PHP](https://img.shields.io/badge/PHP-7f3ace?style=for-the-badge&logo=php&logoColor=white)](https://www.instagram.com/logalan_souza//)
