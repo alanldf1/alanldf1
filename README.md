@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&text=Hi%2C+I%27m+Alan+(〜￣▽￣)〜+-+%40alanldf&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<h1 style="position:absolute; top: 40px; width: 100%; text-align: center;">Hi, I'm Alan (〜￣▽￣)〜 - @alanldf</h1>
 
 <!-- ## Hi, I'm Alan (〜￣▽￣)〜 - @alanldf -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7f3ace?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanldf1/)
