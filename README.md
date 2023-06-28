@@ -20,3 +20,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanldf1&size_weight=0.5&count_weight=0.5&theme=midnight-purple)
+
+![Snake animation](https://github.com/alanldf1/alanldf1/blob/main/github-user-contribution.svg)
