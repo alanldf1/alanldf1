@@ -9,6 +9,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanldf1&theme=midnight-purple&show_icons=true)
 
+<div style="background-color: #000; width: fit-content; padding: 0 15px; border-radius: 5px; border: 1px solid #fff; margin: 15px 0">
+    <br><h3 style="color: #7f3ace"><b>Visitantes</b></h3>  
+    <p><img src="https://profile-counter.glitch.me/{alanldf1}/count.svg" /></p> 
+    <br>
+</div>
+
 ## Technologies I use in my day-to-day
 
 ![HTML](https://img.shields.io/badge/HTML-7f3ace?style=for-the-badge&logo=html5&logoColor=white)
