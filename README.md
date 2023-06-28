@@ -1,3 +1,8 @@
+<style>
+    *{
+        font-family: Poppins;
+    }
+</style>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 <h1 style="position:absolute; top: 40px; width: 100%; text-align: center;">Hi, I'm Alan (〜￣▽￣)〜 - @alanldf</h1>
 
