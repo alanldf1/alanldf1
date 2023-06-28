@@ -1,6 +1,8 @@
-## Hi, I'm Alan (〜￣▽￣)〜 - @logalan_souza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&text=Hi%2C+I%27m+Alan+(〜￣▽￣)〜+-+%40alanldf&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+
+<!-- ## Hi, I'm Alan (〜￣▽￣)〜 - @alanldf -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7f3ace?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanldf1/)
-[![Instagram](https://img.shields.io/badge/Instagram-7f3ace?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/logalan_souza/)
+[![Instagram](https://img.shields.io/badge/Instagram-7f3ace?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanldf/)
 [![Gmail](https://img.shields.io/badge/Gmail-7f3ace?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanldf@gmail.com)
 <!-- [![Github](https://img.shields.io/github/followers/alanldf1.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/alanldf1) -->
 
@@ -22,3 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanldf1&size_weight=0.5&count_weight=0.5&theme=midnight-purple)
 
 ![Snake animation](https://github.com/alanldf1/alanldf1/blob/main/github-user-contribution.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=footer&text=Thanks%20for%20visiting%20my%20profile%20(￣▽￣)ノ&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
