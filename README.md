@@ -1,10 +1,4 @@
-<style>
-    *{
-        font-family: Poppins;
-    }
-</style>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
-<h1 style="position:absolute; top: 40px; width: 100%; text-align: center;">Hi, I'm Alan (〜￣▽￣)〜 - @alanldf</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=160&section=header&text=Hi%2C+I%27m+Alan+(〜￣▽￣)〜+-+%40alanldf&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <!-- ## Hi, I'm Alan (〜￣▽￣)〜 - @alanldf -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7f3ace?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanldf1/)
@@ -15,8 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanldf1&theme=midnight-purple&show_icons=true)
 
-<div style="background-color: #000; width: fit-content; padding: 0 15px; border-radius: 5px; border: 1px solid #fff; margin: 15px 0">
-    <br><h3 style="color: #7f3ace"><b>Visitantes</b></h3>  
+<div>
+    <br><h3>Visitantes</h3>  
     <p><img src="https://profile-counter.glitch.me/{alanldf1}/count.svg" /></p> 
     <br>
 </div>
