@@ -3,7 +3,7 @@
 <!-- ## Hi, I'm Alan (〜￣▽￣)〜 - @alanldf -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7f3ace?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanldf1/)
 [![Instagram](https://img.shields.io/badge/Instagram-7f3ace?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanldf/)
-[![Gmail](https://img.shields.io/badge/Gmail-7f3ace?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanldf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7f3ace?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thealanldf@gmail.com)
 <!-- [![Github](https://img.shields.io/github/followers/alanldf1.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/alanldf1) -->
 
 
